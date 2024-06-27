@@ -1,0 +1,8 @@
+O-0.5, KD, kamen
+O-1, GD, zlato
+F-1, BD, keramika
+P-0.9, GD, srebro
+F-0.1, KD, glina
+O-1, BD, bronza
+O-0.9, KD, kost
+F-1, GD, zlato
